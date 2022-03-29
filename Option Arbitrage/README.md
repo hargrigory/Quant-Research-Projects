@@ -1,4 +1,4 @@
-# Options Arbitrage
+# Options Arbitrage (in the scope of Algorithmic Trading course)
 
 Sample inputs for the tests
 
