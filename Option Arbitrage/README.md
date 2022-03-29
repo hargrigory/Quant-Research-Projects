@@ -1,4 +1,4 @@
-## Options Arbitrage
+# Options Arbitrage
 
 Sample inputs for the tests
 
