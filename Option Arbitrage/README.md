@@ -1,4 +1,6 @@
-INputs
+## Options Arbitrage
+
+Sample inputs for the tests
 
 0
 test_read_data
